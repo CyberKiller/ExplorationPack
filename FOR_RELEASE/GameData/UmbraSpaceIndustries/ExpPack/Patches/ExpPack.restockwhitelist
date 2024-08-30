@@ -15,3 +15,6 @@ Squad/Parts/FuelTank/RCStankRadialLong/
 
 // Used by AES_Outrigger
 Squad/Parts/Structural/strutOcto/
+
+// Used by PackRat_Seat
+Squad/Parts/Command/externalCommandSeat/
